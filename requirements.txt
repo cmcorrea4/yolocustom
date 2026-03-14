@@ -1,5 +1,5 @@
 streamlit>=1.28.0
-ultralytics>=8.0.173
+ultralytics>=8.0.173 
 torch>=2.0.0
 torchvision>=0.15.0
 numpy>=1.24.3
